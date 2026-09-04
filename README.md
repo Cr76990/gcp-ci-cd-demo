@@ -1,1 +1,1 @@
-# ci-cd-demo
+# gcp-ci-cd-demo
